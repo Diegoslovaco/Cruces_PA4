@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1e563b8-9d5c-4592-b21d-dd07648916ec" name="Default Changelist" comment="" />
+    <list default="true" id="9dd59027-5e8a-4a02-b480-5af4ac2ad8d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Cruces_PA4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cruces_PA4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cruces_PA4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cruces_PA4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cruces_PA4/Cruces_PA4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cruces_PA4/problem1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cruces_PA4/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cruces_PA4/src/DuplicateRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cruces_PA4/unique_words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cruces_p1/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cruces_p1/DuplicateRemover.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuplicateRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unique_words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cruces_p2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cruces_p2/out/production/Cruces_p2/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cruces_p2/out/production/Cruces_p2/DuplicateCounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cruces_p2/problem2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cruces_p2/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cruces_p2/src/DuplicateCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cruces_p2/unique_word_counts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PA3/Cruces_p1/Cruces_p1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PA3/Cruces_p2/Cruces_p2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cruces_p1/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cruces_p1/SecureRandom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SecureRandom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cruces_p2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cruces_p2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cruces_p2/out/production/Cruces_p2/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cruces_p2/out/production/Cruces_p2/SavingsAccountDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cruces_p2/src/SavingsAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cruces_p2/src/SavingsAccountDriver.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +51,17 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1SFFdfkiRSup1gkVvNnehWo0nEI" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1T51LboDfgFe7bcX6Q0qy8UZUp4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="restartRequiresConfirmation" value="false" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Cruces_PA4" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -32,8 +76,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Driver" />
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
       <module name="Cruces_p1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -41,7 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -50,12 +94,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d1e563b8-9d5c-4592-b21d-dd07648916ec" name="Default Changelist" comment="" />
-      <created>1571151525741</created>
+      <changelist id="9dd59027-5e8a-4a02-b480-5af4ac2ad8d6" name="Default Changelist" comment="" />
+      <created>1572735087103</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571151525741</updated>
+      <updated>1572735087103</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
